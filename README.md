@@ -160,7 +160,7 @@ plt.show()
 
 
 
-```
+
 ## Output:
 ### i)Image Translation
 ![Screenshot 2024-03-19 111312](https://github.com/Anusharonselva/IMAGE-TRANSFORMATIONS/assets/119405600/7a0412df-023e-4d51-b033-fdc4806a547d)
